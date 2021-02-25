@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+table{
+    text-align: center;
+    font: Ubuntu,sans-serif;
+  }
+
+   .co1{
+       background-color:#628ca6; 
+       color: white;
+   }
+
+   .co2{
+       background-color:#e7f0ed;
+   }
+
+   .co3{
+       background-color:#e7ffed;
+   }
+
+
+
+   .handf{
+       background-color:#7fb9c2;
+   }
