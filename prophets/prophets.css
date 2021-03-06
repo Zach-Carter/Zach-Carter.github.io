@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+h1{
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    color:navy;
+}
+main
+{
+    background-color: cornflowerblue;
+}
+@media(max-width:768px){
+    #proph{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        justify-items: center;
+        text-align: center;
+    }
+}
+
+@media(min-width:769px), (max-width:1049){
+    #proph{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        text-align: center;
+    }
+}
+
+@media(min-width:1050px){
+    #proph{
+        display:grid;
+        grid-template-columns: repeat(3,1fr);
+        text-align: center;
+    }
+}
