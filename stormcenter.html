@@ -1,0 +1,106 @@
+<!doctype html>
+<title>Weather At 6</title>
+<head>
+ <meta charset="utf-8">
+ <link type="text/css" rel="stylesheet" href="css/normalize.css">
+</head>
+
+<header class="titleThing">
+   <img src="images/Weather Icon.png" class="pod">
+   <h1>Wake up Weather</h1><br>
+   <!--<h3>we do weather while you do you.</h3>-->
+
+</header> 
+
+<div class="hamIcon" onclick="toggleClass()">
+  &#9776;
+</div>
+ 
+<nav class="grid">
+  <ul class="mainMenu">
+   <li class="p1">Home</li>
+   <li class="p2">Prestion</li>
+   <li class="p3">Soda Springs</li>
+   <li class="p4">Fish</li>
+   <li class="p5">Haven</li>
+   <li class="p6">Storm Center</li>
+   <a class="p7" href="gallery-7.html">Gallery</a>
+  </ul>
+</nav>
+
+<Script src="js/Toggle.js"></script>
+
+
+<body class="form1">
+ <header class="grid"><h1 class="name">Weather At 6</h1>
+    <img class="pic" src=""></header>
+ 
+  <main class="grid2">
+     
+  <form class="form1" method="GET" action="Thankyou.html">
+   <formset>
+   <label for="fullname">Full Name</label><br>
+   <input type="text" id="fullname" name="fullname" required><br>
+
+   <label for="mail">Email</label><br>
+   <input type="email" id="mail" name="mail"><br>
+
+   <label for="phone#">Phone Number</label><br>
+   <input type="tel" id="phone#" name="phone#" required><br>
+
+   <label for="zipcode">Zip Code</label><br>
+   <input type="number" id="zipcode" name="zipcode" required><br>
+
+   <label for="stormdate">storm Date</label><br>
+   <input type="date" id="stormdate" name="stormdate"><br>
+
+   <label for="stormtype">Storm Type</label><br>
+   <input list="stormtypes" id="stormtype" name="stormtype"><br>
+
+   <label for="stormseverity">Storm Severity</label><br>
+   <input type="range" id="stormseverity" name="stormseverity" min="0" max="10"><br>
+
+   <label for="stormregion">Storm Region</label><br>
+   <Select name="region"></Select>
+   <input list="stormregions" id="stormregion" name="stormregion"><br>
+
+   <label for="userIn-dangerLevel">User In-danger Level</label><br>
+   <input type="radio" id="userIn-dangerLevel" name="yes">Yes<br>
+   <input type="radio" id="userIn-dangerLevel" name="no">No<br>
+   <input type="radio" id="userIn-dangerLevel" name="maybe">Maybe<br>
+
+   
+   <label for="addInfo">Additional Information or Comments</label><br>
+   <textarea type="textaria" rows="10" cols="30"></textarea><br>
+   <lable for="sub" ></lable>
+   </formset>
+   <input type="submit" value="submit" class="botton">
+  </form>
+
+  <datalist id="stormtypes">
+         <option>Flash Flood</option>
+         <option>Hail</option>
+         <option>Hurricane</option>
+         <option>Thunderstorm</option>
+         <option>Tornado</option>
+         
+  </datalist>
+        
+  <datalist id="stormregions">
+   <option>Prestion</option>
+   <option>Soda Springs</option>
+   <option>Fish Haven</option>
+  </datalist>
+
+ </main>
+   <footer class="foot">
+      <div class="f1">Contacy Info</div>
+      <div class="f2">Phone Number: 410-610-6403</div>
+      <div class="f3">Email: z.carter009@gmail.com</div>
+      <div class="f4">Last Updated: 1/22/2021</div>
+  </footer>
+
+
+</body>
+
+<html>
