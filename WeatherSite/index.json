@@ -29,7 +29,7 @@
     },
     {
       "name": "Franklin",
-      "photo": "images/franklinOriginalCropped.jpg",
+      "photo": "images/johannes-plenioCropped.jpg",
       "motto": "Where you will grow!",
       "yearFounded": 1788,
       "currentPopulation": 30458,
@@ -68,7 +68,7 @@
     },
     {
       "name": "Preston",
-      "photo": "images/rainy2Cropped.jpg",
+      "photo": "images/franklinOriginalCropped.jpg",
       "motto": "Home of Napoleon Dynamite.",
       "yearFounded": 1866,
       "currentPopulation": 5204,
@@ -81,7 +81,7 @@
     },
     {
       "name": "Soda Springs",
-      "photo": "images/johannes-plenioCropped.jpg",
+      "photo": "images/rainy2Cropped.jpg",
       "motto": "Historic Oregon Trail Oasis. The Soda is on Us.",
       "yearFounded": 1858,
       "currentPopulation": 2985,

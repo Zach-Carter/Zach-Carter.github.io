@@ -360,7 +360,7 @@ body {
   font-size: 2em;
   font-family: 'Varela Round', sans-serif;
   padding: .25em;
-  text-align: center;
+  
  }
 
  h2, h3, h4, h5, h6{
@@ -399,34 +399,11 @@ body {
      color: #212E25;
      background-color: #C7EDCB;
    }
-
-  .titleThing{
-    display: flex;
-    background-color: #24563D;
-    color:#DCFFFD;
-    align-self: center;
-    justify-content:center;
-    height: auto;
-  }
-
-  .titles
-  {flex-direction: row;}
-
-  .ti{
-    flex-wrap: wrap;
-  }
-
-  .subtitle{
-    order: 2;
-    align-self: flex-end;
-    justify-self: left;
-  }
-
-  .pod{
-    max-width: 20%;
-    height: auto;
-  }
   
+  .ti{
+    text-align: center;
+  }
+
   .font5{
     background-color: #25263F;
   }
@@ -495,6 +472,7 @@ body {
     grid-row: 5;
     grid-column: 3/4;
     width: auto;
+    margin: 2% 2% 2% 2%;
   }
 
   .foot{
@@ -581,12 +559,40 @@ form{
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+header{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  background-color: #24563D;
+  color:#DCFFFD;
+  height: auto;
+}
+
+header img{
+  grid-column: 1/2;
+  grid-row: 1/3;
+}
+
+header h1{
+grid-column: 2/3;
+grid-row: 1/2;
+}
+
+
+
 @media(max-width: 768px){
-    
-  .pog{
-      height:auto;
+
+  header h3{
+    grid-column: 1/3;
+    grid-row: 2/3;
+    text-align: center;
   }
-    
+
+  header img{
+    max-width: 152px;
+    height: auto;
+  }
+
   .mainMenu{
       display:none;
   }
@@ -662,6 +668,16 @@ form{
 
 @media(min-width: 769px),(max-width: 1049){
     
+   header h3{
+     grid-column: 2/3;
+     grid-row: 2/3;
+   }
+
+    header img{
+      width: 40%;
+      height: auto;
+    }
+
     .hamIcon{
       display: none;
       }
@@ -675,10 +691,8 @@ form{
 
     .mainMenu{
        display: grid;
-       grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+       grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
        grid-template-rows: auto; 
-       /*display: flex;
-       list-style: none;*/
        text-align: center;
       }
       
@@ -796,6 +810,23 @@ form{
   }
   
 @media(min-width:1050px){
+
+    header img{
+      width: 40%;
+      height: auto;
+    }
+
+    header h3{
+      grid-column: 2/3;
+      grid-row: 2/3;
+    }
+
+    .mainMenu{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+      grid-template-rows: auto; 
+      text-align: center;
+     }
 
     .grid2{
       display: grid;
