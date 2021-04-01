@@ -31,7 +31,6 @@ fetch(requestURL)
         rain.textContent='Annual Rain Fall: ' + towns[i].averageRainfall;
         image.setAttribute('src', towns[i].photo);
 
-
         textb.appendChild(h2);
         textb.appendChild(h3);
         textb.appendChild(found);
