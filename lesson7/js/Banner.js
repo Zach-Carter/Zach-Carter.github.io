@@ -1,4 +1,4 @@
-function{
+function Ban() {
 var d= new Date();
 var da = d.getDay;
 if(da==5){
