@@ -1,0 +1,131 @@
+<!doctype html>
+
+<title>Wake Up Weather Preston</title>
+
+<head>
+  <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="css/normalize.css">
+</head>
+
+<body onload="windchill()">
+  <div class="activate">
+    <p>"Saturday = Preston Pancakes in the Park! 9:00 a.m. Saturday at the city park pavilion."</p>
+  </div>
+
+  <script src="js/Banner.js"></script>
+  <header class="titleThing">
+    <img src="images/Weather Icon.png">
+    <h1>Wake up Weather</h1>
+    <h3>we do weather while you do you.</h3>
+  </header>
+
+  <div class="hamIcon" onclick="toggleClass()">
+    &#9776;
+  </div>
+
+  <nav class="grid">
+    <ul class="mainMenu">
+        <li><a class="p1" href="index.html">Home</a></li>
+        <li><a class="p2" href="prestion.html">Prestion</a></li>
+        <li><a class="p3" href="soda_springs.html">Soda Springs</a></li>
+        <li><a class="p4" href="fish_haven.html">Fish Haven</a></li>
+        <li><a class="p5" href="stormcenter.html">Storm Center</a></li>
+        <li><a class="p6" href="gallery.html">Gallery</a></li>
+   </ul>
+
+  </nav>
+
+  <Script src="js/Toggle.js"></script>
+
+  <main class="grid3">
+    <h2 class="part1">Soda Springs, Idaho</h2>
+
+    <picture class="rainy">
+      <source srcset="images/rainy2medium.jpg" media="(min-width:
+     500px) and (max-width: 799px)">
+
+      <source srcset="images/rainy2large.jpg" media="(min-width:
+     800px)">
+
+      <img class="rainy2" src="images/rainy2small.jpg" alt="prestion_weather">
+    </picture>
+
+
+    <section class="part2">
+      <h3>Weather Summary </h3>
+      <p>Currently: <span id="cur"></span> </p>
+      <p>High: <span id="tp"></span></p>
+      <p>Wind Chill:  <span id="wind"></span></p>
+      <p>Humidity: <span id="Humi"></p>
+      <p>Wind Speed: <span id="winds"></p>
+    </section>
+
+    <section class="part3">
+      <h3>
+        Five Day Forcast
+      </h3>
+    </section>
+
+    <table class="part4">
+      <tr>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wensday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+      </tr>
+      <tr>
+        <th>
+          <img class="sunnys" src="images/Weather Icon.png"></img>
+        </th>
+        <th>
+          <img class="sunnys" src="images/Weather Icon.png"></img>
+        </th>
+        <th>
+          <img class="sunnys" src="images/Weather Icon.png"></img>
+        </th>
+        <th>
+          <img class="sunnys" src="images/Weather Icon.png"></img>
+        </th>
+        <th>
+          <img class="sunnys" src="images/Weather Icon.png"></img>
+        </th>
+
+      </tr>
+      <tr>
+        <th>89°F</th>
+        <th>87°F</th>
+        <th>78°F</th>
+        <th>75°F</th>
+        <th>72°F</th>
+      </tr>
+    </table>
+
+
+    <section class="part5">
+      <h3>Soda Springs Geyser</h3>
+      <p>
+        As the name suggests, this town is home to many natural hot spings, 
+        as well as the artifical Soda Springs Geyser. The Geyser was made accidentally when the towns founders wanted to created a pool attaction.
+        The cap to the Geyser is loosed evey hour on the hour for visiters to injoy.
+      </p>
+
+      <br>
+      <p>Sorce</p>
+      <p>ePodunk. Retrieved September 2, 2012.</p>
+    </section>
+    <img src="images/picnicCropped.jpg" class="picnic"></img>
+
+  </main>
+  <footer class="foot">
+    <div class="f1">Contacy Info</div>
+    <div class="f2">Phone Number: 410-610-6403</div>
+    <div class="f3">Email: z.carter009@gmail.com</div>
+    <div class="f4">Last Updated: 1/22/2021</div>
+  </footer>
+
+  <Script src="lazy-load.js"></script>
+  <Script src="js/windchill.js"></script>
+</body>
+
+<html>

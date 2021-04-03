@@ -22,7 +22,8 @@ fetch(requestURL)
         let imgb = document.createElement('div');
         textb.classList.add('card'); 
         imgb.classList.add('card2');
-        card.classList.add('Incard'); //this is for the css
+        card.classList.add('Incards');
+         //this is for the css
 
         h2.textContent = towns[i].name;
         h3.textContent = towns[i].motto;
