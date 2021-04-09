@@ -1,0 +1,28 @@
+{
+    "temples": [
+        {"templeClosures":[
+            "31 May 2021 - 7 June 2021",
+            " 21 September 2021",
+            " Saturday, 25 December 2021. "
+        ]
+        },
+        {"templeClosures":[
+            "1 July 2021 ",
+            " 26 July 2021 - 9 August 2021",
+            " 2 October 2021",
+            " Friday, 24 December 2021 - Saturday, 25 December 2021", 
+            " Friday, 31 December 2021 - Saturday, 1 January 2022."
+        ]
+        },
+
+        {"templeClosures":[
+            "Not Avaliable."
+            ]
+        },
+
+        {"templeClosures":[
+            "Not Avaliable."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+<!doctype html>
+<title>Temple Inns and Suites</title>
+
+<head>
+  <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="css/normalize.css">
+</head>
+
+<header class="titleThing">
+  <img class="temImg" src="images/temple.png"></img>
+  <h1>Temple Inns and Suites</h1>
+  <h3></h3>
+</header>
+
+<div class="hamIcon" onclick="toggleClass()">
+&#9776;
+</div>
+
+<nav class="grid">
+<ul class="mainMenu">
+  <li><a class="p1" href="index.html">Home</a></li>
+  <li><a class="p2" href="temple.html">Temple</a></li>
+  <li><a class="p3" href="reservation.html">Reservation</a></li>
+  <li><a class="p4" href="services.html">Services</a></li>
+  <li><a class="p4" href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<Script src="js/Toggle.js"></script>
+
+<body class="form1">
+  <h1 class="ti">Reservation</h1>
+  <main >
+
+    <form class="form1" method="GET" action="Thankyou.html">
+      <formset class="formgrid">
+
+      <lable for="location" class="for1">Which Temple</lable>
+      <input class="for2" id="location" name="location" list="locations" placeholder="ex. Salt Lake Temple" required><br>
+  
+      <lable for="tdate" class="for3">Date</lable>
+      <input class="for4" type="date" id="tdate" name="templeDate" required><br>
+  
+      <lable for="name" class="for5">Registrant's Full Name</lable>
+      <input class="for6" type="text" id="name" name="name" required><br>
+  
+      <lable for="roomNumber" class="for7">Number of Rooms</lable>
+      <input class="for8" type="number" id="roomNumber" name="roomNumber" required><br>
+  
+      <lable for="roomType" class="for9">Type of Rooms</lable>
+      <input class="for10" list="roomtypes" id="roomType" name="Roomtypes"><br>
+  
+      <lable for="state/country" class="for11">Home State or Country</lable>
+      <input class="for12" type="text" id="state/country" name="state/country" required><br>
+  
+      <lable for="Phone#" class="for13">Phone Number</lable>
+      <input class="for14" type="Phone" id="Phone#" name="Phone#" required><br>
+  
+      <lable class="for15" for="other" >Special Accomidations/Comments</lable>
+      <textarea  class="for16" type="textarea" rows="10" cols="30"></textarea><br>
+
+      </formset>
+      <input type="submit" value="submit" class="botton">
+      </form>
+
+      <datalist id ="locations" class="local">
+
+      </datalist>
+
+      <datalist id="roomtypes">
+        <option>Single Room</option>
+        <option>Double Room</option>
+        <option>Triple Room</option>
+        <option>Quad Room</option>
+        <option>Queen Room</option>
+        <option>King Room</option>
+        <option>Twin Room</option>
+        <option>Hollywood Twin Room</option>
+        <option>Double-Double Room</option>
+        <option>Studio Room</option>
+        <option>Suites</option>
+        <option>Junior Suites</option>
+        <option>The Presidential Suite</option>
+        <option>Apartments</option>
+        <option>Connecting Rooms</option>
+        <option>Murphy Room</option>
+        <option>Cabana Room</option>
+        <option>Villa</option>
+      </datalist>
+
+  </main>
+
+  <footer class="foot">
+    <div class="f1">Contacy Info</div>
+    <div class="f2">Phone Number: 202-555-0125</div>
+    <div class="f3">Email: TempleInnsAndSuites@gmail.com</div>
+    <div class="f4">Last Updated: 4/9/2021</div>
+  </footer>
+  
+  <Script src="js/lazy-load.js"></script>
+  <script src="templelocations.js"></script>
+</body>
+
+<html>

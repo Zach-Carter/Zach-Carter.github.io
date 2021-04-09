@@ -1,0 +1,1259 @@
+{
+"temples": [
+  {
+    "templeName": "Aba Nigeria Temple",
+    "templeLocation": "Aba, Abia, Nigeria",
+    "dedicated": "7-Aug-05"
+  },
+  {
+    "templeName": "Abidjan Ivory Coast Temple",
+    "templeLocation": "Abidjan, Ivory Coast",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Accra Ghana Temple",
+    "templeLocation": "Accra, Greater Accra, Ghana",
+    "dedicated": "11-Jan-04"
+  },
+  {
+    "templeName": "Adelaide Australia Temple",
+    "templeLocation": "Marden, South Australia, Australia",
+    "dedicated": "15-Jun-00"
+  },
+  {
+    "templeName": "Alabang Philippines Temple",
+    "templeLocation": "Manila, Philippines",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Albuquerque New Mexico Temple",
+    "templeLocation": "Albuquerque, New Mexico, United States",
+    "dedicated": "5-Mar-00"
+  },
+  {
+    "templeName": "Anchorage Alaska Temple",
+    "templeLocation": "Anchorage, Alaska, United States",
+    "dedicated": "9-Jan-99"
+  },
+  {
+    "templeName": "Antofagasta Chile Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Apia Samoa Temple",
+    "templeLocation": "Apia, Pesega, Samoa",
+    "dedicated": "5-Aug-83"
+  },
+  {
+    "templeName": "Arequipa Peru Temple",
+    "templeLocation": "Arequipa, Peru",
+    "dedicated": "15-Dec-19"
+  },
+  {
+    "templeName": "Asunción Paraguay Temple",
+    "templeLocation": "Asunción, Alto Paraguay, Paraguay",
+    "dedicated": "19-May-02"
+  },
+  {
+    "templeName": "Atlanta Georgia Temple",
+    "templeLocation": "Sandy Springs, Georgia, United States",
+    "dedicated": "1-Jun-83"
+  },
+  {
+    "templeName": "Auckland New Zealand Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Bacolod Philippines Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Bahía Blanca Argentina Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Bangkok Thailand Temple",
+    "templeLocation": "Bangkok, Thailand",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Barranquilla Colombia Temple",
+    "templeLocation": "Barranquilla, Colombia",
+    "dedicated": "9-Dec-18"
+  },
+  {
+    "templeName": "Baton Rouge Louisiana Temple",
+    "templeLocation": "Baton Rouge, Louisiana, United States",
+    "dedicated": "16-Jul-00"
+  },
+  {
+    "templeName": "Beira Mozambique Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Belém Brazil Temple",
+    "templeLocation": "Belém Brazil",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Belo Horizonte Brazil Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Bengaluru India Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Benin City Nigeria Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Bentonville Arkansas Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Bern Switzerland Temple",
+    "templeLocation": "Zollikofen, Bern, Switzerland",
+    "dedicated": "11-Sep-55"
+  },
+  {
+    "templeName": "Billings Montana Temple",
+    "templeLocation": "Billings, Montana, United States",
+    "dedicated": "20-Nov-99"
+  },
+  {
+    "templeName": "Birmingham Alabama Temple",
+    "templeLocation": "Gardendale, Alabama, United States",
+    "dedicated": "3-Sep-00"
+  },
+  {
+    "templeName": "Bismarck North Dakota Temple",
+    "templeLocation": "Bismarck, North Dakota, United States",
+    "dedicated": "19-Sep-99"
+  },
+  {
+    "templeName": "Bogotá Colombia Temple",
+    "templeLocation": "Bogotá, Distrito Capital, Colombia",
+    "dedicated": "24-Apr-99"
+  },
+  {
+    "templeName": "Boise Idaho Temple",
+    "templeLocation": "Boise, Idaho, United States",
+    "dedicated": "25-May-84"
+  },
+  {
+    "templeName": "Boston Massachusetts Temple",
+    "templeLocation": "Belmont, Massachusetts, United States",
+    "dedicated": "1-Oct-00"
+  },
+  {
+    "templeName": "Bountiful Utah Temple",
+    "templeLocation": "Bountiful, Utah, United States",
+    "dedicated": "8-Jan-95"
+  },
+  {
+    "templeName": "Brasília Brazil Temple",
+    "templeLocation": "Brasilia, Brazil",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Brigham City Utah Temple",
+    "templeLocation": "Brigham City, Utah, United States",
+    "dedicated": "23-Sep-12"
+  },
+  {
+    "templeName": "Brisbane Australia Temple",
+    "templeLocation": "Kangaroo Point, Queensland, Australia",
+    "dedicated": "15-Jun-03"
+  },
+  {
+    "templeName": "Brussels Belgium Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Budapest Hungary Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Buenos Aires Argentina Temple",
+    "templeLocation": "Ciudad Evita, Buenos Aires, Argentina",
+    "dedicated": "17-Jan-86"
+  },
+  {
+    "templeName": "Burley Idaho Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Cagayan de Oro Philippines Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Calgary Alberta Temple",
+    "templeLocation": "Calgary, Alberta, Canada",
+    "dedicated": "28-Oct-12"
+  },
+  {
+    "templeName": "Cali Colombia Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Campinas Brazil Temple",
+    "templeLocation": "Campinas, Sao Paulo, Brazil",
+    "dedicated": "17-May-02"
+  },
+  {
+    "templeName": "Cape Town South Africa Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Caracas Venezuela Temple",
+    "templeLocation": "Caracas, Dependencias Federales, Venezuela",
+    "dedicated": "20-Aug-00"
+  },
+  {
+    "templeName": "Cardston Alberta Temple",
+    "templeLocation": "Cardston, Alberta, Canada",
+    "dedicated": "26-Aug-23"
+  },
+  {
+    "templeName": "Casper Wyoming Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Cebu City Philippines Temple",
+    "templeLocation": "Cebu City, Cebu, Philippines",
+    "dedicated": "13-Jun-10"
+  },
+  {
+    "templeName": "Cedar City Utah Temple",
+    "templeLocation": "Cedar City, Utah, United States",
+    "dedicated": "10-Dec-17"
+  },
+  {
+    "templeName": "Chicago Illinois Temple",
+    "templeLocation": "Glenview, Illinois, United States",
+    "dedicated": "9-Aug-85"
+  },
+  {
+    "templeName": "Ciudad Juárez Mexico Temple",
+    "templeLocation": "Ciudad Juárez, Chihuahua, Mexico",
+    "dedicated": "26-Feb-00"
+  },
+  {
+    "templeName": "Cobán Guatemala Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Cochabamba Bolivia Temple",
+    "templeLocation": "Alto Queru Queru, Cochabamba, Bolivia",
+    "dedicated": "30-Apr-00"
+  },
+  {
+    "templeName": "Colonia Juárez Chihuahua Mexico Temple",
+    "templeLocation": "Colonia Juárez, Chihuahua, Mexico",
+    "dedicated": "6-Mar-99"
+  },
+  {
+    "templeName": "Columbia River Washington Temple",
+    "templeLocation": "Richland, Washington, United States",
+    "dedicated": "18-Nov-01"
+  },
+  {
+    "templeName": "Columbia South Carolina Temple",
+    "templeLocation": "Hopkins, South Carolina, United States",
+    "dedicated": "16-Oct-99"
+  },
+  {
+    "templeName": "Columbus Ohio Temple",
+    "templeLocation": "Columbus, Ohio, United States",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Concepción Chile Temple",
+    "templeLocation": "Concepcion, Chile",
+    "dedicated": "28-Oct-18"
+  },
+  {
+    "templeName": "Copenhagen Denmark Temple",
+    "templeLocation": "Frederiksberg, Hovedstaden, Denmark",
+    "dedicated": "23-May-04"
+  },
+  {
+    "templeName": "Córdoba Argentina Temple",
+    "templeLocation": "Córdoba, Argentina",
+    "dedicated": "17-May-15"
+  },
+  {
+    "templeName": "Curitiba Brazil Temple",
+    "templeLocation": "Curitiba, Parana, Brazil",
+    "dedicated": "1-Jun-08"
+  },
+  {
+    "templeName": "Dallas Texas Temple",
+    "templeLocation": "Dallas, Texas, United States",
+    "dedicated": "19-Oct-84"
+  },
+  {
+    "templeName": "Davao Philippines Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Denver Colorado Temple",
+    "templeLocation": "Centennial, Colorado, United States",
+    "dedicated": "24-Oct-86"
+  },
+  {
+    "templeName": "Deseret Peak Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Detroit Michigan Temple",
+    "templeLocation": "Bloomfield Hills, Michigan, United States",
+    "dedicated": "23-Oct-99"
+  },
+  {
+    "templeName": "Draper Utah Temple",
+    "templeLocation": "Draper, Utah, United States",
+    "dedicated": "20-Mar-09"
+  },
+  {
+    "templeName": "Dubai United Arab Emirates Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Durban South Africa Temple",
+    "templeLocation": "Durban, South Africa",
+    "dedicated": "16-Feb-20"
+  },
+  {
+    "templeName": "Edmonton Alberta Temple",
+    "templeLocation": "Edmonton, Alberta, Canada",
+    "dedicated": "11-Dec-99"
+  },
+  {
+    "templeName": "Elko Nevada Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Eugene Oregon Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Farmington New Mexico Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Feather River California Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Fort Collins Colorado Temple",
+    "templeLocation": "Fort Collins, Colorado, United States",
+    "dedicated": "16-Oct-16"
+  },
+  {
+    "templeName": "Fort Lauderdale Florida Temple",
+    "templeLocation": "Davie, Florida, United States",
+    "dedicated": "4-May-14"
+  },
+  {
+    "templeName": "Fortaleza Brazil Temple",
+    "templeLocation": "Fortaleza, Ceará, Brazil",
+    "dedicated": "2-Jun-19"
+  },
+  {
+    "templeName": "Frankfurt Germany Temple",
+    "templeLocation": "Friedrichsdorf, Hessen, Germany",
+    "dedicated": "28-Aug-87"
+  },
+  {
+    "templeName": "Freetown Sierra Leone Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Freiberg Germany Temple",
+    "templeLocation": "Freiberg, Sachsen, Germany",
+    "dedicated": "29-Jun-85"
+  },
+  {
+    "templeName": "Fresno California Temple",
+    "templeLocation": "Fresno, California, United States",
+    "dedicated": "9-Apr-00"
+  },
+  {
+    "templeName": "Fukuoka Japan Temple",
+    "templeLocation": "Fukuoka-shi, Fukuoka, Japan",
+    "dedicated": "11-Jun-00"
+  },
+  {
+    "templeName": "Gilbert Arizona Temple",
+    "templeLocation": "Gilbert, Arizona, United States",
+    "dedicated": "2-Mar-14"
+  },
+  {
+    "templeName": "Grand Junction Colorado Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Greater Guatemala City Guatemala Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Guadalajara Mexico Temple",
+    "templeLocation": "Zapopan, Jalisco, Mexico",
+    "dedicated": "29-Apr-01"
+  },
+  {
+    "templeName": "Guatemala City Guatemala Temple",
+    "templeLocation": "Guatemala City, Guatemala, Guatemala",
+    "dedicated": "14-Dec-84"
+  },
+  {
+    "templeName": "Guayaquil Ecuador Temple",
+    "templeLocation": "Guayaquil, Azuay, Ecuador",
+    "dedicated": "1-Aug-99"
+  },
+  {
+    "templeName": "Halifax Nova Scotia Temple",
+    "templeLocation": "Dartmouth, Nova Scotia, Canada",
+    "dedicated": "14-Nov-99"
+  },
+  {
+    "templeName": "Hamilton New Zealand Temple",
+    "templeLocation": "Hamilton, Auckland, New Zealand",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Harare Zimbabwe Temple",
+    "templeLocation": "Harare, Zimbabwe",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Hartford Connecticut Temple",
+    "templeLocation": "Farmington, Connecticut, United States",
+    "dedicated": "20-Nov-16"
+  },
+  {
+    "templeName": "Helena Montana Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Helsinki Finland Temple",
+    "templeLocation": "Espoo, Uusimaa, Finland",
+    "dedicated": "22-Oct-06"
+  },
+  {
+    "templeName": "Hermosillo Sonora Mexico Temple",
+    "templeLocation": "Hermosillo, Sonora, Mexico",
+    "dedicated": "27-Feb-00"
+  },
+  {
+    "templeName": "Hong Kong China Temple",
+    "templeLocation": "Kowloon Tong, Kowloon City, Hong Kong",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Houston Texas Temple",
+    "templeLocation": "Spring, Texas, United States",
+    "dedicated": "26-Aug-00"
+  },
+  {
+    "templeName": "Idaho Falls Idaho Temple",
+    "templeLocation": "Idaho Falls, Idaho, United States",
+    "dedicated": "23-Sep-45"
+  },
+  {
+    "templeName": "Indianapolis Indiana Temple",
+    "templeLocation": "Carmel, Indiana, United States",
+    "dedicated": "23-Aug-15"
+  },
+  {
+    "templeName": "Johannesburg South Africa Temple",
+    "templeLocation": "Johannesburg, Gauteng, South Africa",
+    "dedicated": "24-Aug-85"
+  },
+  {
+    "templeName": "Jordan River Utah Temple",
+    "templeLocation": "South Jordan, Utah, United States",
+    "dedicated": "16-Nov-81"
+  },
+  {
+    "templeName": "Kansas City Missouri Temple",
+    "templeLocation": "Kansas City, Missouri, United States",
+    "dedicated": "6-May-12"
+  },
+  {
+    "templeName": "Kinshasa Democratic Republic of the Congo Temple",
+    "templeLocation": "Kinshasa, Democratic Republic of the Congo",
+    "dedicated": "14-Apr-19"
+  },
+  {
+    "templeName": "Kona Hawaii Temple",
+    "templeLocation": "Kailua-Kona, Hawaii, United States",
+    "dedicated": "23-Jan-00"
+  },
+  {
+    "templeName": "Kumasi Ghana Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Kyiv Ukraine Temple",
+    "templeLocation": "Kyevo-Sviatoshyns’ky Rayon, Kyiv, Ukraine",
+    "dedicated": "29-Aug-10"
+  },
+  {
+    "templeName": "Lagos Nigeria Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Laie Hawaii Temple",
+    "templeLocation": "Laie, Hawaii, United States",
+    "dedicated": "27-Nov-19"
+  },
+  {
+    "templeName": "Las Vegas Nevada Temple",
+    "templeLocation": "Las Vegas, Nevada, United States",
+    "dedicated": "16-Dec-89"
+  },
+  {
+    "templeName": "Layton Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Lima Peru Los Olivos Temple",
+    "templeLocation": "Los Olivos, Lima, Peru",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Lima Peru Temple",
+    "templeLocation": "La Molina, Lima, Peru",
+    "dedicated": "10-Jan-86"
+  },
+  {
+    "templeName": "Lindon Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Lisbon Portugal Temple",
+    "templeLocation": "Lisbon, Portugal",
+    "dedicated": "15-Sep-19"
+  },
+  {
+    "templeName": "Logan Utah Temple",
+    "templeLocation": "Logan, Utah, United States",
+    "dedicated": "17 May 1884"
+  },
+  {
+    "templeName": "London England Temple",
+    "templeLocation": "Newchapel, Surrey, England",
+    "dedicated": "7-Sep-58"
+  },
+  {
+    "templeName": "Los Angeles California Temple",
+    "templeLocation": "Los Angeles, California, United States",
+    "dedicated": "11-Mar-56"
+  },
+  {
+    "templeName": "Louisville Kentucky Temple",
+    "templeLocation": "Crestwood, Kentucky, United States",
+    "dedicated": "19-Mar-00"
+  },
+  {
+    "templeName": "Lubbock Texas Temple",
+    "templeLocation": "Lubbock, Texas, United States",
+    "dedicated": "21-Apr-02"
+  },
+  {
+    "templeName": "Lubumbashi Democratic Republic of the Congo Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Madrid Spain Temple",
+    "templeLocation": "Madrid, Madrid, Spain",
+    "dedicated": "19-Mar-99"
+  },
+  {
+    "templeName": "Managua Nicaragua Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Manaus Brazil Temple",
+    "templeLocation": "Manaus, Amazonas, Brazil",
+    "dedicated": "10-Jun-12"
+  },
+  {
+    "templeName": "Manhattan New York Temple",
+    "templeLocation": "New York, New York, United States",
+    "dedicated": "13-Jun-04"
+  },
+  {
+    "templeName": "Manila Philippines Temple",
+    "templeLocation": "Quezon City, Metro Manila, Philippines",
+    "dedicated": "25-Sep-84"
+  },
+  {
+    "templeName": "Manti Utah Temple",
+    "templeLocation": "Manti, Utah, United States",
+    "dedicated": "21 May 1888"
+  },
+  {
+    "templeName": "McAllen Texas Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Medford Oregon Temple",
+    "templeLocation": "Central Point, Oregon, United States",
+    "dedicated": "16-Apr-00"
+  },
+  {
+    "templeName": "Melbourne Australia Temple",
+    "templeLocation": "Wantirna South, Victoria, Australia",
+    "dedicated": "16-Jun-00"
+  },
+  {
+    "templeName": "Memphis Tennessee Temple",
+    "templeLocation": "Bartlett, Tennessee, United States",
+    "dedicated": "23-Apr-00"
+  },
+  {
+    "templeName": "Mendoza Argentina Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Mérida Mexico Temple",
+    "templeLocation": "Mérida, Yucatan, Mexico",
+    "dedicated": "8-Jul-00"
+  },
+  {
+    "templeName": "Meridian Idaho Temple",
+    "templeLocation": "Meridian, Idaho, United States",
+    "dedicated": "19-Nov-17"
+  },
+  {
+    "templeName": "Mesa Arizona Temple",
+    "templeLocation": "Mesa, Arizona, United States",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Mexico City Mexico Temple",
+    "templeLocation": "México, Distrito Federal, Mexico",
+    "dedicated": "2-Dec-83"
+  },
+  {
+    "templeName": "Monterrey Mexico Temple",
+    "templeLocation": "Monterrey, Nuevo Leon, Mexico",
+    "dedicated": "28-Apr-02"
+  },
+  {
+    "templeName": "Montevideo Uruguay Temple",
+    "templeLocation": "Carrasco, Montevideo, Uruguay",
+    "dedicated": "18-Mar-01"
+  },
+  {
+    "templeName": "Monticello Utah Temple",
+    "templeLocation": "Monticello, Utah, United States",
+    "dedicated": "26-Jul-98"
+  },
+  {
+    "templeName": "Montreal Quebec Temple",
+    "templeLocation": "Longueuil, Quebec, Canada",
+    "dedicated": "4-Jun-00"
+  },
+  {
+    "templeName": "Moses Lake Washington Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Mount Timpanogos Utah Temple",
+    "templeLocation": "American Fork, Utah, United States",
+    "dedicated": "13-Oct-96"
+  },
+  {
+    "templeName": "Nairobi Kenya Temple",
+    "templeLocation": "Nairobi, Kenya",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Nashville Tennessee Temple",
+    "templeLocation": "Franklin, Tennessee, United States",
+    "dedicated": "21-May-00"
+  },
+  {
+    "templeName": "Nauvoo Illinois Temple",
+    "templeLocation": "Nauvoo, Illinois, United States",
+    "dedicated": "27-Jun-02"
+  },
+  {
+    "templeName": "Neiafu Tonga Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Newport Beach California Temple",
+    "templeLocation": "Newport Beach, California, United States",
+    "dedicated": "28-Aug-05"
+  },
+  {
+    "templeName": "Nuku'alofa Tonga Temple",
+    "templeLocation": "Liahona, Tongatapu, Tonga",
+    "dedicated": "9-Aug-83"
+  },
+  {
+    "templeName": "Oakland California Temple",
+    "templeLocation": "Oakland, California, United States",
+    "dedicated": "17-Nov-64"
+  },
+  {
+    "templeName": "Oaxaca Mexico Temple",
+    "templeLocation": "Oaxaca, Oaxaca, Mexico",
+    "dedicated": "11-Mar-00"
+  },
+  {
+    "templeName": "Ogden Utah Temple",
+    "templeLocation": "Ogden, Utah, United States",
+    "dedicated": "18-Jan-72"
+  },
+  {
+    "templeName": "Okinawa Japan Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Oklahoma City Oklahoma Temple",
+    "templeLocation": "Yukon, Oklahoma, United States",
+    "dedicated": "30-Jul-00"
+  },
+  {
+    "templeName": "Oquirrh Mountain Utah Temple",
+    "templeLocation": "South Jordan, Utah, United States",
+    "dedicated": "21-Aug-09"
+  },
+  {
+    "templeName": "Orem Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Orlando Florida Temple",
+    "templeLocation": "Windermere, Florida, United States",
+    "dedicated": "9-Oct-94"
+  },
+  {
+    "templeName": "Oslo Norway Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Pago Pago American Samoa Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Palmyra New York Temple",
+    "templeLocation": "Palmyra, New York, United States",
+    "dedicated": "6-Apr-00"
+  },
+  {
+    "templeName": "Panama City Panama Temple",
+    "templeLocation": "Corozal, Ancon, Panamá, Panama",
+    "dedicated": "10-Aug-08"
+  },
+  {
+    "templeName": "Papeete Tahiti Temple",
+    "templeLocation": "Papeete, Tahiti, French Polynesia",
+    "dedicated": "27-Oct-83"
+  },
+  {
+    "templeName": "Paris France Temple",
+    "templeLocation": "Le Chesnay, France",
+    "dedicated": "21-May-17"
+  },
+  {
+    "templeName": "Payson Utah Temple",
+    "templeLocation": "Payson, Utah, United States",
+    "dedicated": "7-Jun-15"
+  },
+  {
+    "templeName": "Perth Australia Temple",
+    "templeLocation": "Yokine, Western Australia, Australia",
+    "dedicated": "20-May-01"
+  },
+  {
+    "templeName": "Philadelphia Pennsylvania Temple",
+    "templeLocation": "Philadelphia, Pennsylvania, United States",
+    "dedicated": "18-Sep-16"
+  },
+  {
+    "templeName": "Phnom Penh Cambodia Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Phoenix Arizona Temple",
+    "templeLocation": "Phoenix, Arizona, United States",
+    "dedicated": "16-Nov-14"
+  },
+  {
+    "templeName": "Pittsburgh Pennsylvania Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Pocatello Idaho Temple",
+    "templeLocation": "Pocatello, Idaho, United States",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Port Moresby Papua New Guinea Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Port Vila Vanuatu Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Port-au-Prince Haiti Temple",
+    "templeLocation": "Port-au-Prince, Haiti",
+    "dedicated": "1-Sep-19"
+  },
+  {
+    "templeName": "Portland Oregon Temple",
+    "templeLocation": "Lake Oswego, Oregon, United States",
+    "dedicated": "19-Aug-89"
+  },
+  {
+    "templeName": "Porto Alegre Brazil Temple",
+    "templeLocation": "Porto Alegre, Rio Grande do Sul, Brazil",
+    "dedicated": "17-Dec-00"
+  },
+  {
+    "templeName": "Praia Cape Verde Temple",
+    "templeLocation": "Praia, Cape Verde",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Preston England Temple",
+    "templeLocation": "Chorley, Lancashire, England",
+    "dedicated": "7-Jun-98"
+  },
+  {
+    "templeName": "Provo City Center Temple",
+    "templeLocation": "Provo, Utah, United States",
+    "dedicated": "20-Mar-16"
+  },
+  {
+    "templeName": "Provo Utah Temple",
+    "templeLocation": "Provo, Utah, United States",
+    "dedicated": "9-Feb-72"
+  },
+  {
+    "templeName": "Puebla Mexico Temple",
+    "templeLocation": "Puebla, Puebla, Mexico",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Querétaro México Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Quetzaltenango Guatemala Temple",
+    "templeLocation": "Quetzaltenango, Quezaltenango, Guatemala",
+    "dedicated": "11-Dec-11"
+  },
+  {
+    "templeName": "Quito Ecuador Temple",
+    "templeLocation": "Quito, Equador",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Raleigh North Carolina Temple",
+    "templeLocation": "Apex, North Carolina, United States",
+    "dedicated": "18-Dec-99"
+  },
+  {
+    "templeName": "Recife Brazil Temple",
+    "templeLocation": "Recife, Pernambuco, Brazil",
+    "dedicated": "15-Dec-00"
+  },
+  {
+    "templeName": "Red Cliffs Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Redlands California Temple",
+    "templeLocation": "Redlands, California, United States",
+    "dedicated": "14-Sep-03"
+  },
+  {
+    "templeName": "Regina Saskatchewan Temple",
+    "templeLocation": "Regina, Saskatchewan, Canada",
+    "dedicated": "14-Nov-99"
+  },
+  {
+    "templeName": "Reno Nevada Temple",
+    "templeLocation": "Reno, Nevada, United States",
+    "dedicated": "23-Apr-00"
+  },
+  {
+    "templeName": "Rexburg Idaho Temple",
+    "templeLocation": "Rexburg, Idaho, United States",
+    "dedicated": "10-Feb-08"
+  },
+  {
+    "templeName": "Richmond Virginia Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Rio de Janeiro Brazil Temple",
+    "templeLocation": "Rio de Janeiro, Brazil",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Rome Italy Temple",
+    "templeLocation": "Rome, Roma, Italy",
+    "dedicated": "10-Mar-19"
+  },
+  {
+    "templeName": "Russia Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Sacramento California Temple",
+    "templeLocation": "Rancho Cordova, California, United States",
+    "dedicated": "3-Sep-06"
+  },
+  {
+    "templeName": "Salt Lake Temple",
+    "templeLocation": "Salt Lake City, Utah, United States",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Salta Argentina Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Salvador Brazil Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "San Antonio Texas Temple",
+    "templeLocation": "San Antonio, Texas, United States",
+    "dedicated": "22-May-05"
+  },
+  {
+    "templeName": "San Diego California Temple",
+    "templeLocation": "San Diego, California, United States",
+    "dedicated": "25-Apr-93"
+  },
+  {
+    "templeName": "San José Costa Rica Temple",
+    "templeLocation": "Belén, Heredia, Costa Rica",
+    "dedicated": "4-Jun-00"
+  },
+  {
+    "templeName": "San Juan Puerto Rico Temple",
+    "templeLocation": "San Juan, Puerto Rico",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "San Pedro Sula Honduras Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "San Salvador El Salvador Temple",
+    "templeLocation": "Antiguo Cuscatlán, La Libertad, El Salvador",
+    "dedicated": "21-Aug-11"
+  },
+  {
+    "templeName": "Santa Cruz Bolivia Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Santiago Chile Temple",
+    "templeLocation": "Providencia, Santiago, Chile",
+    "dedicated": "15-Sep-83"
+  },
+  {
+    "templeName": "Santo Domingo Dominican Republic Temple",
+    "templeLocation": "Santo Domingo, Distrito Nacional, Dominican Republic",
+    "dedicated": "17-Sep-00"
+  },
+  {
+    "templeName": "São Paulo Brazil Temple",
+    "templeLocation": "São Paulo, Sao Paulo, Brazil",
+    "dedicated": "30-Oct-78"
+  },
+  {
+    "templeName": "Sao Paulo East Brazil Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Sapporo Japan Temple",
+    "templeLocation": "Atsubetsu-ku Sapporo, Hokkaido, Japan",
+    "dedicated": "21-Aug-16"
+  },
+  {
+    "templeName": "Saratoga Springs Utah Temple",
+    "templeLocation": "Saratoga Springs, Utah, United States",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Seattle Washington Temple",
+    "templeLocation": "Bellevue, Washington, United States",
+    "dedicated": "17-Nov-80"
+  },
+  {
+    "templeName": "Seoul Korea Temple",
+    "templeLocation": "Seoul, Seoul-teukbyeolsi, South Korea",
+    "dedicated": "14-Dec-85"
+  },
+  {
+    "templeName": "Shanghai People’s Republic of China Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Singapore Republic of Singapore Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Smithfield Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Snowflake Arizona Temple",
+    "templeLocation": "Snowflake, Arizona, United States",
+    "dedicated": "3-Mar-02"
+  },
+  {
+    "templeName": "Spokane Washington Temple",
+    "templeLocation": "Spokane, Washington, United States",
+    "dedicated": "21-Aug-99"
+  },
+  {
+    "templeName": "St. George Utah Temple",
+    "templeLocation": "St. George, Utah, United States",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "St. Louis Missouri Temple",
+    "templeLocation": "St. Louis, Missouri, United States",
+    "dedicated": "1-Jun-97"
+  },
+  {
+    "templeName": "St. Paul Minnesota Temple",
+    "templeLocation": "Oakdale, Minnesota, United States",
+    "dedicated": "9-Jan-00"
+  },
+  {
+    "templeName": "Star Valley Wyoming Temple",
+    "templeLocation": "Afton, Wyoming, United States",
+    "dedicated": "30-Oct-16"
+  },
+  {
+    "templeName": "Stockholm Sweden Temple",
+    "templeLocation": "Vasterhaninge, Sweden",
+    "dedicated": "2-Jul-85"
+  },
+  {
+    "templeName": "Suva Fiji Temple",
+    "templeLocation": "Samabula, Suva, Fiji",
+    "dedicated": "18-Jun-00"
+  },
+  {
+    "templeName": "Sydney Australia Temple",
+    "templeLocation": "Carlingford, New South Wales, Australia",
+    "dedicated": "20-Sep-84"
+  },
+  {
+    "templeName": "Syracuse Utah Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Taipei Taiwan Temple",
+    "templeLocation": "Taipei, Taipei, Taiwan",
+    "dedicated": "17-Nov-84"
+  },
+  {
+    "templeName": "Tallahassee Florida Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Tampico Mexico Temple",
+    "templeLocation": "Ciudad Madero, Tamaulipas, Mexico",
+    "dedicated": "20-May-00"
+  },
+  {
+    "templeName": "Tarawa Kiribati Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Taylorsville Utah Temple",
+    "templeLocation": "Taylorsville, Utah, United States",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Tegucigalpa Honduras Temple",
+    "templeLocation": "Comayagüela, Francisco Morazán, Honduras",
+    "dedicated": "17-Mar-13"
+  },
+  {
+    "templeName": "The Gila Valley Arizona Temple",
+    "templeLocation": "Central, Arizona, United States",
+    "dedicated": "23-May-10"
+  },
+  {
+    "templeName": "The Hague Netherlands Temple",
+    "templeLocation": "Zoetermeer, Zuid-Holland, Netherlands",
+    "dedicated": "8-Sep-02"
+  },
+  {
+    "templeName": "Tijuana Mexico Temple",
+    "templeLocation": "Tijuana, Baja California, Mexico",
+    "dedicated": "13-Dec-15"
+  },
+  {
+    "templeName": "Tokyo Japan Temple",
+    "templeLocation": "Minato-ku, Tokyo, Japan",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Toronto Ontario Temple",
+    "templeLocation": "Brampton, Ontario, Canada",
+    "dedicated": "25-Aug-90"
+  },
+  {
+    "templeName": "Torreón México Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Trujillo Peru Temple",
+    "templeLocation": "Trujillo, La Libertad, Peru",
+    "dedicated": "21-Jun-15"
+  },
+  {
+    "templeName": "Tucson Arizona Temple",
+    "templeLocation": "Tucson, Arizona, United States",
+    "dedicated": "13-Aug-17"
+  },
+  {
+    "templeName": "Tuxtla Gutiérrez Mexico Temple",
+    "templeLocation": "Tuxtla Gutiérrez, Chiapas, Mexico",
+    "dedicated": "12-Mar-00"
+  },
+  {
+    "templeName": "Twin Falls Idaho Temple",
+    "templeLocation": "Twin Falls, Idaho, United States",
+    "dedicated": "24-Aug-08"
+  },
+  {
+    "templeName": "Urdaneta Philippines Temple",
+    "templeLocation": "Urdaneta, Pangasinan, Philippines",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Vancouver British Columbia Temple",
+    "templeLocation": "Langley, British Columbia, Canada",
+    "dedicated": "2-May-10"
+  },
+  {
+    "templeName": "Veracruz Mexico Temple",
+    "templeLocation": "Boca del Rio, Veracruz, Mexico",
+    "dedicated": "9-Jul-00"
+  },
+  {
+    "templeName": "Vernal Utah Temple",
+    "templeLocation": "Vernal, Utah, United States",
+    "dedicated": "2-Nov-97"
+  },
+  {
+    "templeName": "Vienna Austria Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  },
+  {
+    "templeName": "Villahermosa Mexico Temple",
+    "templeLocation": "Villahermosa, Tabasco, Mexico",
+    "dedicated": "21-May-00"
+  },
+  {
+    "templeName": "Washington D.C. Temple",
+    "templeLocation": "Kensington, Maryland, United States",
+    "dedicated": "Renovation"
+  },
+  {
+    "templeName": "Winnipeg Manitoba Temple",
+    "templeLocation": "Winnipeg, Manitoba, Canada",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Winter Quarters Nebraska Temple",
+    "templeLocation": "Omaha, Nebraska, United States",
+    "dedicated": "22-Apr-01"
+  },
+  {
+    "templeName": "Yigo Guam Temple",
+    "templeLocation": "Yigo, Guam",
+    "dedicated": "Construction"
+  },
+  {
+    "templeName": "Yorba Linda California Temple",
+    "templeLocation": "Location Not Available",
+    "dedicated": "Announced"
+  }
+]
+}
